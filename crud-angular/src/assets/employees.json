@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "phone": "+1234567890",
+    "salary": 50000
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "age": 28,
+    "phone": "+1987654321",
+    "salary": 55000
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "age": 35,
+    "phone": "+1122334455",
+    "salary": 60000
+  },
+  {
+    "id": 4,
+    "name": "Emily Brown",
+    "email": "emily.brown@example.com",
+    "age": 25,
+    "phone": "+1765432109",
+    "salary": 48000
+  },
+  {
+    "id": 5,
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "age": 32,
+    "phone": "+1654321876",
+    "salary": 52000
+  }
+]

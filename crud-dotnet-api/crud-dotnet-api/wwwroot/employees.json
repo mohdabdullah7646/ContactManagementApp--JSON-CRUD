@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "Abdullah",
+    "Email": "abd@gmail.com",
+    "Age": 1,
+    "Phone": "876543",
+    "Salary": "45K"
+  },
+  {
+    "Id": 3,
+    "Name": "Third Emp Name",
+    "Email": "hsg@gn.com",
+    "Age": 13,
+    "Phone": "675",
+    "Salary": "34"
+  },
+  {
+    "Id": 4,
+    "Name": "Zain",
+    "Email": "zfh@hn.com",
+    "Age": 23,
+    "Phone": "8765432",
+    "Salary": "67K"
+  },
+  {
+    "Id": 5,
+    "Name": "DEMO",
+    "Email": "dshj@bg.com",
+    "Age": 21,
+    "Phone": "987654",
+    "Salary": "7654K"
+  }
+]
