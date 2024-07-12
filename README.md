@@ -1,7 +1,9 @@
 # Contact Management Application
 
-- I used MySQL for the Database side.
-- You can replace the connectionString in appsetting.json to run the application after cloning this repository in your local machine.
+- I used JSON for CRUD Operation.
+- You can find the employees.json file in the wwwroot directory.
+- Implemented Global Exception Handling as custom Middleware.
+- Disabled CORS
 
 
 ## Setup Instructions
@@ -10,7 +12,6 @@
 
 - .NET v8.0 
 - Angular v17.0
-- MySQL
 - Node.js command prompt
 
 
@@ -58,16 +59,13 @@
 4. Forms: Angular Reactive Forms
 5. Components Communication: @Input() and @Output() decorators for component interactions
 
-### Database
-1. MySQL: v8.0
-2. DatabaseName: ContactDB
-3. TableName: Employee
-4. Fpr storing the data as well as for CRUD operations.
 
 ### Tests
 - MS Unit Tests for .NET
 - Jasmine/Karma Tests for Angular
 
+## Global Exception Handling for the API part
+- For Exceptions Handling.
 
 ### Application Structure
 1. crud-dotnet-api/: Contains the .NET backend project.
